@@ -1,8 +1,13 @@
 # ilk-erp
 basit düzey bir muhasebe sayfası
-git clone https://github.com/kullanici_adi/proje_adi.git
-cd proje_adi
-git init
-git add .
-git commit -m "İlk commit: Proje yapısı oluşturuldu"
-git push origin main
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Muhasebe Sitesi</title>
+</head>
+<body>
+    <h1>Hoş Geldiniz!</h1>
+    <p>Bu basit muhasebe sitesi GitHub Pages ile yayına alındı.</p>
+</body>
+</html>
